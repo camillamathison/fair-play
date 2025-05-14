@@ -1,0 +1,8 @@
+name: fair-play
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11
+  - matplotlib
+  - jupyter
+  - fair==2.2.0
