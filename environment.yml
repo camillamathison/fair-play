@@ -5,4 +5,5 @@ dependencies:
   - python==3.11
   - matplotlib
   - jupyter
-  - fair==2.2.0
+  - fair==2.2.2
+  - jupytext
