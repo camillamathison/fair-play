@@ -6,4 +6,3 @@ dependencies:
   - matplotlib
   - jupyter
   - fair==2.2.2
-  - jupytext
